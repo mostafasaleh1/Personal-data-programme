@@ -1,0 +1,2 @@
+D:\Mostafa\Courses\C# Course\MyProjects\1. PersonData Project\New folder\obj\x86\Debug\Phonebook.csprojAssemblyReference.cache
+D:\Mostafa\Courses\C# Course\MyProjects\1. PersonData Project\New folder\obj\x86\Debug\Phonebook.csproj.CoreCompileInputs.cache
